@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+
+# Mac system files
+.DS_Store
+
+# Project data and exports
+*.csv
+*.json
+phishin-dev.sql
