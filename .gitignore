@@ -11,4 +11,5 @@ venv/
 # Project data and exports
 *.csv
 *.json
-phishin-dev.sql
+phishin-dev.sqlgit add .gitignore
+git commit -m "Add clean .gitignore"
